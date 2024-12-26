@@ -1,6 +1,15 @@
 # 👋 Hi, I'm Luzvander EMILCAR!
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative solutions and learning new technologies.
+Welcome to my GitHub profile! 
+
+---
+
+## 🆔️ About me
+
+I'm a passionate web developer with a keen interest in building innovative solutions and learning new technologies.
+
+I'm also a graphic designer interested in providing innovative visual solutions for the targeted audience with functional graphics without compromise on aesthetic.
+
 
 ## 🔧 Technologies & Tools
 
@@ -10,14 +19,24 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **Design:** Photoshop, Figma, Pixellab
 - **Others:** Git, Linux
 
+
 ## 🌱 Currently Learning
 
 - Exploring Machine Learning and Data Science with Python
 - Learning Rust programming language
 
+
 ## 💼 Professional Experience
 
 - **Intern at ABC Inc:** Assisted in developing and maintaining internal tools.
+
+
+## 📚 Training 
+
+- Web Development
+- Graphic Design
+- Business Administration
+
 
 ## 📫 How to Reach Me
 
@@ -25,13 +44,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **LinkedIn:** [Luzvander Emilcar](https://www.linkedin.com/in/luzvanderemilcar)
 - **Twitter:** [@luzvanderE](https://twitter.com/LuzvanderE)
 
+
 ## 📈 GitHub Stats
 
 ![Luzvander Emilcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzvanderemilcar&show_icons=true&theme=radical)
 
+
 ## 🔗 Projects
 
-- **[Online CV](https://github.com/luzvanderemilcar/cv):** An online resume based a json-like data source 
+- **[Online CV](https://github.com/luzvanderemilcar/cv):** An online resume based on a json-like data source 
 - **[Multitimer](https://github.com/luzvanderemilcar/multi-timer):** A timer that can have multiple tasks running at the same time
 - **[BMI checker](https://github.com/luzvanderemilcar/bmi-checker):** A Body Mass Index (BMI) calculator with test results and meaningful advices
 - **[Markdown previewer](https://github.com/luzvanderemilcar/marked-previewer):** A marked text editor with preview
