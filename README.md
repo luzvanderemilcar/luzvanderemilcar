@@ -14,7 +14,7 @@ I'm also a graphic designer interested in providing innovative visual solutions 
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, Python
-- **Web Development:** HTML, CSS, React, Node.js
+- **Web Development:** HTML, CSS, React, Node.js, PHP
 - **Databases:** MySQL, MongoDB
 - **Design:** Photoshop, Figma, Pixellab
 - **Others:** Git, Linux
@@ -23,19 +23,14 @@ I'm also a graphic designer interested in providing innovative visual solutions 
 ## 🌱 Currently Learning
 
 - Exploring Machine Learning and Data Science with Python
-- Learning Rust programming language
-
-
-## 💼 Professional Experience
-
-- **Intern at ABC Inc:** Assisted in developing and maintaining internal tools.
+- Learning UI / UX design 
 
 
 ## 📚 Training 
 
-- Web Development
-- Graphic Design
-- Business Administration
+- **D-Clic | OIF :** Web Development
+- **KGO :** Graphic Design
+- **EDSEG | UEH :** Business Administration
 
 
 ## 📫 How to Reach Me
